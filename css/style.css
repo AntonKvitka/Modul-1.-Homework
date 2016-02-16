@@ -1,0 +1,56 @@
+<STYLE>
+			*{
+		
+				border: 0px solid black;
+		
+			}
+
+			BODY A {
+
+				COLOR: RoyalBlue;
+				FONT-FAMILY: mono;
+				TEXT-DECORATION: underline;
+
+				}
+
+			
+			A:hover{
+					COLOR: #ff0000;
+					}
+					
+								
+			a { 
+				
+				line-height: 50px; height: 70px; font-size: 18px;
+				
+				}
+		
+			.wrapper{
+	
+					background: rgba(192, 192, 192, 0.23);
+					
+					}
+			
+			
+			table{
+			
+				background: #ffffff;
+						
+				}
+		
+			body{
+			
+				margin: 0;
+				
+				}
+				
+				
+			p{
+			
+				}
+		
+			
+			li{
+								
+				}
+	</STYLE>
