@@ -2,26 +2,49 @@
 			*{
 				margin: 0px;
 				padding: 0px;
-				}
+			}
+			
+			h1 {
+				text-align: center;
+				margin-top: 0px;
+				margin-bottom: 0px;
+				padding-top: 50px;
+			}
+			
+			.fig {
+					text-align: center;
+			}
+			
+			img {
+				width: 170px;
+				height: 220px;
+			}
+			
+			.university {
+						text-align: center;
+			}
 			
 			.border {
 				margin-left: 30px;
 				margin-right: 30px;
-				border-bottom: solid 2px #E1DCDC;
+				border-bottom: solid 2px gray;
 				padding-bottom: 10px;
 			}
 			
 			.fedback {
 				margin-left: 30px;
 				margin-right: 30px;
-			
 				padding-bottom: 10px;				
 			}
 			
 			
 			.wrapper{
-	
-					background: #eee;
+					width: 721px;
+					height: 95%;
+					margin-top: 5px;
+					margin-left: 314px;
+					margin-right: 314px;
+					background: #fff;
 				}
 			
 			body{
@@ -34,12 +57,9 @@
 				}
 
 			BODY A {
-
-				COLOR: RoyalBlue;
-				FONT-FAMILY: mono;
-				TEXT-DECORATION: underline;
-
-				}
+					COLOR: RoyalBlue;
+					TEXT-DECORATION: underline;
+			}
 
 			
 			A:hover{
@@ -48,34 +68,20 @@
 				
 				
 			div a{ 
-				
 				line-height: 10px;
 				height: 70px;
 				font-size: 18px;
 				padding-left: 10px;
-					
 			}
-		
-			
-			table{
-				
-				background: #ffffff;
-				
-			}	
-				
-			span{
-				padding-left: 10px;
-				}
-			
-			
+
 			p{
 				padding-left: 10px;
 				padding-right: 0px;
-				margin-top: 15px;
-				margin-bottom: 9px;
+				margin-top: 30x;
+				margin-bottom: 16px;
+				padding-bottom: 0px
 			}
-			
-			
+
 			ul {
 				margin-top: 35px;
 				padding-left: 10px;
@@ -84,5 +90,6 @@
 			
 			li{
 				margin-left: 25px;	
-				}
-	</STYLE>
+			}
+			
+</STYLE>
